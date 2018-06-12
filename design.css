@@ -1,0 +1,55 @@
+*{
+padding:0px;
+margin:0px;
+border:0px;
+}
+
+.logo-img{
+    
+    margin-left:0px;
+}
+.logo-txt{
+    margin-left: 0px;
+}
+.wrapper{
+    background: #db0000;
+    color: #fff;
+}
+.navbar .navbar-nav{
+    margin: 0 auto;
+}
+
+.nav-txt{
+    color:#fff !important;
+   font-family: 'Exo', sans-serif;
+}
+.nav-txt1{
+    color:#fff !important;
+   font-family: 'Exo', sans-serif;
+}
+
+.nav-txt:hover{
+    background-color: #000;
+    color: #fff;
+}
+.ser-img{
+transition: all .2s ease-in-out;
+    margin-bottom: 30px;
+}
+.ser-img:hover{
+ transform: scale(1.1);
+    box-shadow: 3px 0px 22px -1px ;
+}
+.ft-txt{
+    text-decoration: none;
+    color: #fff;
+}
+.ft-txt:hover{
+        text-decoration: none;
+    background-color: #fff;
+    color: #000;
+}
+
+
+
+/*------------------------------------------------------------------------------*/
